@@ -2,6 +2,7 @@
 
 
 
+
 #### Published
 
 - Li, Z., <strong>Li, Y.</strong>, Liu, F., Xu, P.*, & Li, B. (2026). Design, modelling, and implementation of a novel parallel end effector for robotic grinding. <strong>Robotics and Computer-Integrated Manufacturing</strong>. [[Paper]](https://doi.org/10.1016/j.rcim.2025.103122)
